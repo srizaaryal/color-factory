@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(135, 188, 224);
+}
+
+.Red {
+  background-color: red;
+}
+
+.Green {
+  background-color: green;
+}
+
+.Yellow {
+  background-color: yellow;
+}
+
+.Colors {
+  background-color: maroon;
+}
